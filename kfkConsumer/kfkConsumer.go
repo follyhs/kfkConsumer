@@ -1,4 +1,4 @@
-package kafkaConsumer
+package kfkConsumer
 
 import (
 	"fmt"
